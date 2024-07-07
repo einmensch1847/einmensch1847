@@ -9,5 +9,5 @@
 
 <h2 align = "left">contact with me :
 
-<h2 align = "left">Email : sadraghofran544@gmail.com "\n" Phone number : +989144721384 
+<h2 align = "left">Email : sadraghofran544@gmail.com
 <h2 align = "left">Phone number : +989144721384
