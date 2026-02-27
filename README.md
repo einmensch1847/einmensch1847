@@ -42,7 +42,7 @@
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="50" height="50"/>
         <br>Java
       </td>
       <td align="center" width="100">
