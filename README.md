@@ -2,138 +2,156 @@
 <img src="https://github.com/einmensch1847/einmensch1847/assets/171799731/2e69107f-b6ea-4452-8432-119f80e580f3" width="100%" alt="Professional Banner - EIN MENSCH">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Sadra+Ghofran;EIN+MENSCH;Java+Developer;Hardware+Enthusiast" alt="Typing SVG - Sadra Ghofran" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Sadra+Ghofran;EIN+MENSCH;Java+Developer;Hardware+Enthusiast;Wood+Artist" alt="Typing SVG - Sadra Ghofran" />
 </h1>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 <h3 align="center">
-  <img src="https://img.shields.io/badge/LOCATION-Tabriz%2C%20Iran-blue?style=flat-square&logo=google-maps&logoColor=white">
-  <img src="https://img.shields.io/badge/UNIVERSITY-Tabriz%20University-purple?style=flat-square&logo=graduation-cap&logoColor=white">
-  <img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Hardware-orange?style=flat-square&logo=target&logoColor=white">
-  <img src="https://img.shields.io/badge/Woodworks-EIN%20MENSCH-brown?style=flat-square&logo=tree&logoColor=white">
+  <img src="https://img.shields.io/badge/LOCATION-Tabriz%2C%20Iran-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white">
+  <img src="https://img.shields.io/badge/UNIVERSITY-Tabriz%20University-4ECDC4?style=for-the-badge&logo=graduation-cap&logoColor=white">
+  <img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Hardware-45B7D1?style=for-the-badge&logo=target&logoColor=white">
+  <img src="https://img.shields.io/badge/Woodworks-EIN%20MENSCH-96CEB4?style=for-the-badge&logo=tree&logoColor=white">
 </h3>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
   🚀 PROGRAMMING SKILLS & TOOLS
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <br>☕ Java
-      </td>
-      <td align="center" width="110">
-        <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX"/>
-        <br>🎨 JavaFX
-      </td>
-      <td align="center" width="110">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-        <br>⚙️ C
-      </td>
-      <td align="center" width="110">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <br>🐍 Python
-      </td>
-      <td align="center" width="110">
-        <img src="https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge&logo=amd&logoColor=white" alt="VHDL"/>
-        <br>🔌 VHDL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <br>🗄️ MySQL
-      </td>
-      <td align="center" width="110">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <br>📦 Git
-      </td>
-      <td align="center" width="110" colspan="2">
-        <img src="https://img.shields.io/badge/Hardware%20Description-555555?style=for-the-badge&logo=circuit&logoColor=white" alt="HDL"/>
-        <br>🪛 FPGA/CPLD
-      </td>
-    </tr>
-  </table>
+  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2D2D2D" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white&labelColor=2D2D2D" alt="JavaFX"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=2D2D2D" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2D2D2D" alt="Python"/>
+  <img src="https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge&logo=amd&logoColor=white&labelColor=2D2D2D" alt="VHDL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2D2D2D" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2D2D2D" alt="Git"/>
+  <img src="https://img.shields.io/badge/FPGA/CPLD-555555?style=for-the-badge&logo=circuit&logoColor=white&labelColor=2D2D2D" alt="Hardware"/>
+  <br>
+  <br>
+  <details>
+    <summary><b>✨ Click to see icons & emojis ✨</b></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center" width="110">☕ Java</td>
+        <td align="center" width="110">🎨 JavaFX</td>
+        <td align="center" width="110">⚙️ C</td>
+        <td align="center" width="110">🐍 Python</td>
+        <td align="center" width="110">🔌 VHDL</td>
+        <td align="center" width="110">🗄️ MySQL</td>
+        <td align="center" width="110">📦 Git</td>
+        <td align="center" width="110">🪛 FPGA</td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 <h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40">
   📊 GITHUB STATISTICS
 </h2>
 
 <div align="center">
+  <br>
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=einmensch1847&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats - einmensch1847" />
+        <img src="https://github-readme-stats.vercel.app/api?username=einmensch1847&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages - einmensch1847" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=4ECDC4&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=einmensch1847&hide_border=true&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&background=0d1117&stroke=6A5ACD" alt="GitHub Streak - einmensch1847" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=einmensch1847&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&background=0d1117" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=einmensch1847&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 <h2 align="center">
-  🔗 CONNECT WITH ME
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  🔗 LET'S CONNECT
 </h2>
 
 <div align="center">
+  <br>
   <table>
     <tr>
-      <td align="center" width="200">
+      <td align="center" colspan="2">
         <a href="mailto:sadrareza1847@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+          <img src="https://img.shields.io/badge/GMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2D2D" alt="Gmail"/>
         </a>
-        <br>
-        <b>📧 sadrareza1847@gmail.com</b>
-      </td>
-      <td align="center" width="200">
         <a href="https://github.com/einmensch1847">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" alt="GitHub"/>
         </a>
-        <br>
-        <b>🐙 @einmensch1847</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
         <a href="https://ir.linkedin.com/in/sadra-ghofran-335b81340">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D2D2D" alt="LinkedIn"/>
         </a>
-        <br>
-        <b>🔗 sadra-ghofran</b>
-      </td>
-      <td align="center" width="200">
-        <a href="https://sadraghofran.ir">
-          <img src="https://img.shields.io/badge/Personal%20Site-6A5ACD?style=for-the-badge&logo=firefox&logoColor=white" alt="Personal Site"/>
-        </a>
-        <br>
-        <b>🌐 sadraghofran.ir</b>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <a href="https://menschwoodworks.ir">
-          <img src="https://img.shields.io/badge/Woodcraft%20Studio-EIN%20MENSCH-8B4513?style=for-the-badge&logo=tree&logoColor=white" alt="Woodcraft Studio"/>
+        <a href="https://sadraghofran.ir">
+          <img src="https://img.shields.io/badge/PERSONAL%20SITE-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white&labelColor=2D2D2D" alt="Personal Site"/>
         </a>
-        <br>
-        <b>🪵 menschwoodworks.ir</b>
+        <a href="https://menschwoodworks.ir">
+          <img src="https://img.shields.io/badge/WOODCRAFT%20STUDIO-96CEB4?style=for-the-badge&logo=tree&logoColor=white&labelColor=2D2D2D" alt="Woodcraft"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- Contact Cards -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📧-sadrareza1847@gmail.com-FF6B6B?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🐙-@einmensch1847-100000?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔗-sadra--ghofran-0077B5?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌐-sadraghofran.ir-4ECDC4?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🪵-menschwoodworks.ir-96CEB4?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎓-Tabriz%20University-purple?style=flat-square"/>
       </td>
     </tr>
   </table>
@@ -142,7 +160,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <h3 align="center">
@@ -150,13 +168,40 @@
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=einmensch1847&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="Profile Views Counter" />
   
+  <!-- Animated Snake Graph (optional - if you want to add) -->
+  <!-- <img src="https://github.com/einmensch1847/einmensch1847/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> -->
+  
+  <img src="https://komarev.com/ghpvc/?username=einmensch1847&label=👀+PROFILE+VIEWS&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+  
+  <br>
   <br>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
   
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=200&lines=⚡+منبت‌کاری+کد+⚡;⚡+خراطی+ایده‌ها+⚡" alt="Footer Typing" />
+      </td>
+      <td align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=200&lines=✨+Coding+the+logic+✨;✨+Carving+creativity+✨" alt="Footer Typing 2" />
+      </td>
+    </tr>
+  </table>
+  
   <p>
-    <i>Last updated: February 27, 2026</i>
+    <i>Last updated with 🩷 • February 27, 2026</i>
   </p>
+  
+  <!-- Animated Wave -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
+  
+</div>
+
+<!-- Matrix Style Footer (minimal) -->
+<div align="center">
+  <sub>
+    <b>EIN MENSCH</b> — Where code meets craft
+  </sub>
 </div>
