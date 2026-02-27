@@ -13,7 +13,7 @@
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=einmensch1847&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=einmesch1847&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=einmensch1847&theme=tokyonight)
 
