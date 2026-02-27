@@ -18,52 +18,35 @@
 </div>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 
-  PROFESSIONAL SUMMARY
-</h2>
-
-<div align="center">
-  <p>
-    <b>🎓 Computer Engineering Student</b> at Tabriz University<br>
-    <b>💻 Java Specialist</b> with expertise in JavaFX and Backend Development<br>
-    <b>🔍 Passionate about</b> creating efficient and scalable software solutions<br>
-    <b>🚀 Always learning</b> and exploring new technologies
-  </p>
-</div>
-
-<br>
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 
-  TECH STACK & TOOLS
+  🚀 PROGRAMMING SKILLS & TOOLS
 </h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="50" height="50"/>
-        <br>Java
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <br>☕ Java
       </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" alt="JavaFX" width="50" height="50"/>
-        <br>JavaFX
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX"/>
+        <br>🎨 JavaFX
       </td>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="50" height="50"/>
-        <br>C
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+        <br>⚙️ C
       </td>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
-        <br>Python
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <br>🐍 Python
       </td>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-        <br>MySQL
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <br>🗄️ MySQL
       </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-        <br>Git
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <br>📦 Git
       </td>
     </tr>
   </table>
@@ -72,8 +55,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
-  GITHUB ANALYTICS
+  📊 GITHUB STATISTICS
 </h2>
 
 <div align="center">
@@ -97,32 +79,27 @@
 <br>
 
 <h2 align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50px"> 
-  LET'S CONNECT
+  📫 CONTACT ME
 </h2>
 
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <a href="mailto:sadraghofran544@gmail.com">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
         </a>
+        <br>
+        <b>📧 sadraghofran544@gmail.com</b>
       </td>
-      <td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://github.com/einmensch1847">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
-      </td>
-      <td>
-        <a href="https://linkedin.com/in/yourprofile">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://t.me/yourusername">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-        </a>
+        <br>
+        <b>🐙 @einmensch1847</b>
       </td>
     </tr>
   </table>
@@ -141,13 +118,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=einmensch1847&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="Profile Views"/>
   
-  <p>
-    <b>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</b>
-  </p>
+  <br>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
   
   <p>
-    <i>Last edited: February 27, 2026</i>
+    <b>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</b>
+  </p>
+  
+  <p>
+    <i>Last updated: February 27, 2026</i>
   </p>
 </div>
