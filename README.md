@@ -157,11 +157,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
   
   <p>
-    <b>⚡ "منبت‌کاری کد و خراطی ایده‌ها" ⚡</b><br>
-    <i>(Coding the logic, carving the creativity)</i>
-  </p>
-  
-  <p>
     <i>Last updated: February 27, 2026</i>
   </p>
 </div>
