@@ -69,24 +69,21 @@
 </h2>
 
 <div align="center">
-  <br>
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=einmensch1847&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=einmensch1847&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats - einmensch1847" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=4ECDC4&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages - einmensch1847" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=einmensch1847&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&background=0d1117" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=einmensch1847&hide_border=true&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&background=0d1117&stroke=6A5ACD" alt="GitHub Streak - einmensch1847" />
       </td>
     </tr>
   </table>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=einmensch1847&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <br>
