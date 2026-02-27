@@ -176,16 +176,6 @@
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
   
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=200&lines=⚡+منبت‌کاری+کد+⚡;⚡+خراطی+ایده‌ها+⚡" alt="Footer Typing" />
-      </td>
-      <td align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=200&lines=✨+Coding+the+logic+✨;✨+Carving+creativity+✨" alt="Footer Typing 2" />
-      </td>
-    </tr>
-  </table>
   
   <p>
     <i>Last updated with 🩷 • February 27, 2026</i>
