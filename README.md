@@ -7,6 +7,7 @@ Computer Engineering student at University of Tabriz
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sadraghofran.ir-1a1a2e?style=flat-square)](https://sadraghofran.ir)
 [![Email](https://img.shields.io/badge/Email-SadraGhofran544%40gmail.com-1a1a2e?style=flat-square)](mailto:SadraGhofran544@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mail%40sadraghofran.ir-1a1a2e?style=flat-square)](mailto:mail@sadraghofran.ir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sadra--ghofran-1a1a2e?style=flat-square)](https://ir.linkedin.com/in/sadra-ghofran-335b81340)
 [![Location](https://img.shields.io/badge/Location-Tabriz%2C%20Iran-1a1a2e?style=flat-square)](#)
 
@@ -105,6 +106,5 @@ English ★★★☆☆ · German ★★☆☆☆
 | 📍 Location | Tabriz, Iran |
 
 <div align="center">
-<sub>Built with ❤️ in Tabriz</sub>
 </div>
 
