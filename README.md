@@ -1,194 +1,110 @@
-<!DOCTYPE html>
-<img src="https://github.com/einmensch1847/einmensch1847/assets/171799731/2e69107f-b6ea-4452-8432-119f80e580f3" width="100%" alt="Professional Banner - EIN MENSCH">
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Sadra+Ghofran;EIN+MENSCH;Java+Developer;Hardware+Enthusiast;Wood+Artist" alt="Typing SVG - Sadra Ghofran" />
-</h1>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+# Hi, I'm Sadra Ghofran 👋
+### Java / JavaFX Developer · Web Developer · Hardware Enthusiast
+
+Computer Engineering student at University of Tabriz
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sadraghofran.ir-1a1a2e?style=flat-square)](https://sadraghofran.ir)
+[![Email](https://img.shields.io/badge/Email-SadraGhofran544%40gmail.com-1a1a2e?style=flat-square)](mailto:SadraGhofran544@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadra--ghofran-1a1a2e?style=flat-square)](https://ir.linkedin.com/in/sadra-ghofran-335b81340)
+[![Location](https://img.shields.io/badge/Location-Tabriz%2C%20Iran-1a1a2e?style=flat-square)](#)
+
 </div>
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/LOCATION-Tabriz%2C%20Iran-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white">
-  <img src="https://img.shields.io/badge/UNIVERSITY-Tabriz%20University-4ECDC4?style=for-the-badge&logo=graduation-cap&logoColor=white">
-  <img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Hardware-45B7D1?style=for-the-badge&logo=target&logoColor=white">
-  <img src="https://img.shields.io/badge/Woodworks-EIN%20MENSCH-96CEB4?style=for-the-badge&logo=tree&logoColor=white">
-</h3>
+---
 
-<br>
+## 🧭 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
+I'm a Computer Engineering student (6th semester) at the University of Tabriz with a GPA above 16/20, passionate about problem solving, algorithm design, and software development.
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-  🚀 PROGRAMMING SKILLS & TOOLS
-</h2>
+I have hands-on experience building desktop applications with **Java/JavaFX** and web applications with **PHP/JavaScript**, along with a challenging cross-disciplinary project connecting software and hardware (a vending machine controller).
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2D2D2D" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white&labelColor=2D2D2D" alt="JavaFX"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=2D2D2D" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2D2D2D" alt="Python"/>
-  <img src="https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge&logo=amd&logoColor=white&labelColor=2D2D2D" alt="VHDL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2D2D2D" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2D2D2D" alt="Git"/>
-  <img src="https://img.shields.io/badge/FPGA/CPLD-555555?style=for-the-badge&logo=circuit&logoColor=white&labelColor=2D2D2D" alt="Hardware"/>
-  <br>
-  <br>
-  <details>
-    <summary><b>✨ Click to see icons & emojis ✨</b></summary>
-    <br>
-    <table>
-      <tr>
-        <td align="center" width="110">☕ Java</td>
-        <td align="center" width="110">🎨 JavaFX</td>
-        <td align="center" width="110">⚙️ C</td>
-        <td align="center" width="110">🐍 Python</td>
-        <td align="center" width="110">🔌 VHDL</td>
-        <td align="center" width="110">🗄️ MySQL</td>
-        <td align="center" width="110">📦 Git</td>
-        <td align="center" width="110">🪛 FPGA</td>
-      </tr>
-    </table>
-  </details>
-</div>
+I also have a background in graphic design and traditional art, which has given me a strong eye for detail, visual structure, and creative problem-solving.
 
-<br>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
+## 🛠️ Skills & Tools
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40">
-  📊 GITHUB STATISTICS
-</h2>
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=einmensch1847&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats - einmensch1847" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages - einmensch1847" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=einmensch1847&hide_border=true&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&background=0d1117&stroke=6A5ACD" alt="GitHub Streak - einmensch1847" />
-      </td>
-    </tr>
-  </table>
-</div>
+**Hardware & Digital Design**
+![VHDL](https://img.shields.io/badge/VHDL-4B0082?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA%2FCPLD-555555?style=flat-square)
 
-<br>
+**Tools & Databases**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 💼 Featured Projects
+
+### 🔌 Vending Vitalizer Machine (VVM)
+*Sep 2025 – Mar 2026*
+Designed and implemented the full UI/control system for a vending machine, sending commands to an Arduino board over serial communication. Over 15,000 lines of code, written entirely without Scene Builder, with complete exception handling and connection error management for a stable, crash-free system that stays synced with a remote server.
+🔗 [Download project](https://sadraghofran.ir/VVM.zip)
+
+### 🖥️ Xerox Office Automation
+A desktop system built with Java and JavaFX to streamline customer management for a Xerox service company. Each customer has a dedicated record (identity info, purchase/service history, related documents, invoices, images) with full create, edit, delete, search, and download functionality.
+
+### 📚 Tamsu — Educational Platform
+*Dec 2025*
+A professional platform for task organization, smart quiz creation, time management, file sharing, and internal messaging — built to give users an integrated, accessible space for knowledge management and tracking learning progress.
+🔗 [Tamsu.ir](https://tamsu.ir)
+
+### 🌐 Other Web Projects
+- 🍽️ [Healthdish.ir](https://healthdish.ir)
+- 🪵 [Menschwoodworks.ir](https://menschwoodworks.ir) — woodcraft studio
+- 🎨 [Sadraghofran.ir](https://sadraghofran.ir) — personal portfolio
+
+---
+
+## 🎓 Education
+**B.Sc. in Computer Engineering** — University of Tabriz (Sep 2023 – Present)
+
+## 🏆 Achievements
+- 🥇 Ranked in ICPC Programming Contest
+- 📜 Collaboration Certificate, DCHPC Conference
+
+## 🧩 Internship
+Xerox Printer Service Internship — Xerox Tahmasebi (Sep 2024)
+
+## 🌍 Languages
+English ★★★☆☆ · German ★★☆☆☆
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=einmensch1847&show_icons=true&count_private=true&hide_border=true&title_color=1a1a2e&icon_color=1a1a2e&text_color=333&bg_color=ffffff" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=1a1a2e&text_color=333&bg_color=ffffff" alt="Top Languages" width="48%"/>
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  🔗 LET'S CONNECT
-</h2>
+---
+
+## 📬 Contact
+
+| | |
+|---|---|
+| 📧 Email | [SadraGhofran544@gmail.com](mailto:SadraGhofran544@gmail.com) / [Mail@sadraghofran.ir](mailto:Mail@sadraghofran.ir) |
+| 🌐 Portfolio | [sadraghofran.ir](https://sadraghofran.ir) |
+| 💼 LinkedIn | [sadra-ghofran](https://ir.linkedin.com/in/sadra-ghofran-335b81340) |
+| 🐙 GitHub | [@einmensch1847](https://github.com/einmensch1847) |
+| 📍 Location | Tabriz, Iran |
 
 <div align="center">
-  <br>
-  <table>
-    <tr>
-      <td align="center" colspan="2">
-        <a href="mailto:sadrareza1847@gmail.com">
-          <img src="https://img.shields.io/badge/GMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2D2D" alt="Gmail"/>
-        </a>
-        <a href="https://github.com/einmensch1847">
-          <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" alt="GitHub"/>
-        </a>
-        <a href="https://ir.linkedin.com/in/sadra-ghofran-335b81340">
-          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D2D2D" alt="LinkedIn"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <a href="https://sadraghofran.ir">
-          <img src="https://img.shields.io/badge/PERSONAL%20SITE-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white&labelColor=2D2D2D" alt="Personal Site"/>
-        </a>
-        <a href="https://menschwoodworks.ir">
-          <img src="https://img.shields.io/badge/WOODCRAFT%20STUDIO-96CEB4?style=for-the-badge&logo=tree&logoColor=white&labelColor=2D2D2D" alt="Woodcraft"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- Contact Cards -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📧-sadrareza1847@gmail.com-FF6B6B?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🐙-@einmensch1847-100000?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🔗-sadra--ghofran-0077B5?style=flat-square"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌐-sadraghofran.ir-4ECDC4?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🪵-menschwoodworks.ir-96CEB4?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎓-Tabriz%20University-purple?style=flat-square"/>
-      </td>
-    </tr>
-  </table>
+<sub>Built with ❤️ in Tabriz</sub>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
-<h3 align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</h3>
-
-<div align="center">
-  
-  <!-- Animated Snake Graph (optional - if you want to add) -->
-  <!-- <img src="https://github.com/einmensch1847/einmensch1847/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> -->
-  
-  <img src="https://komarev.com/ghpvc/?username=einmensch1847&label=👀+PROFILE+VIEWS&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
-  
-  <br>
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-  
-  
-  <p>
-    <i>Last updated with 🩷 • February 27, 2026</i>
-  </p>
-  
-  <!-- Animated Wave -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
-  
-</div>
-
-<!-- Matrix Style Footer (minimal) -->
-<div align="center">
-  <sub>
-    <b>EIN MENSCH</b> — Where code meets craft
-  </sub>
-</div>
