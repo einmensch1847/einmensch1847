@@ -1,110 +1,111 @@
 <div align="center">
 
-# Sadra Ghofran
+# Hi, I'm Sadra Ghofran 👋
+### Java / JavaFX Developer · Web Developer · Hardware Enthusiast
 
-**Computer Engineering Student · Java/JavaFX & Web Developer · Hardware Integration**
+Computer Engineering student at University of Tabriz
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sadraghofran.ir-1A1A2E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sadraghofran.ir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadra-ghofran-335b81340)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SadraGhofran544@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sadraghofran.ir-1a1a2e?style=flat-square)](https://sadraghofran.ir)
+[![Email](https://img.shields.io/badge/Email-SadraGhofran544%40gmail.com-1a1a2e?style=flat-square)](mailto:SadraGhofran544@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mail%40sadraghofran.ir-1a1a2e?style=flat-square)](mailto:mail@sadraghofran.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadra--ghofran-1a1a2e?style=flat-square)](https://ir.linkedin.com/in/sadra-ghofran-335b81340)
+[![Location](https://img.shields.io/badge/Location-Tabriz%2C%20Iran-1a1a2e?style=flat-square)](#)
 
 </div>
 
-<br>
+---
 
-## About
+## 🧭 About Me
 
-I'm a Computer Engineering student (7th semester, GPA 16+/20) at the University of Tabriz, focused on algorithm design and full-stack development. My strongest work sits at the intersection of software and hardware — building the desktop control system for a real vending machine that talks to an Arduino over serial, handling the interface, exception management, and server sync end to end.
+I'm a Computer Engineering student (6th semester) at the University of Tabriz with a GPA above 16/20, passionate about problem solving, algorithm design, and software development.
 
-Outside of code, I've spent about eight years doing wood carving and turning. It's an unusual pairing with software engineering, but the attention to detail and structural thinking carries over directly.
+I have hands-on experience building desktop applications with **Java/JavaFX** and web applications with **PHP/JavaScript**, along with a challenging cross-disciplinary project connecting software and hardware (a vending machine controller).
 
-```js
-const sadra = {
-  role: "Computer Engineering Student",
-  focus: ["Desktop Applications", "Web Development", "Hardware Integration"],
-  currentlyBuilding: "Tamsu — an educational platform",
-  currentlyResearching: "CSP-based workflow optimization",
-  languages: { human: ["Azerbaijani", "Persian", "English", "German"] },
-};
-```
+I also have a background in graphic design and traditional art, which has given me a strong eye for detail, visual structure, and creative problem-solving.
 
-<br>
+---
 
-## Tech Stack
+## 🛠️ Skills & Tools
 
-**Languages**
-
+**Languages & Frameworks**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Data & Hardware**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Hardware & Digital Design**
 ![VHDL](https://img.shields.io/badge/VHDL-4B0082?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-555555?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA%2FCPLD-555555?style=flat-square)
 
-**Tools & Platforms**
-
+**Tools & Databases**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
-<br>
+---
 
-## Featured Projects
+## 💼 Featured Projects
 
-### [Vending Vitalizer Machine (VVM)](https://sadraghofran.ir/VVM.zip)
-Full desktop control system for a smart vending machine that sends commands to an Arduino over serial. 15,000+ lines of hand-built Java/JavaFX (no Scene Builder), complete exception handling, and live sync with a remote server. Shipped across four versions.
-`Java` `JavaFX` `Arduino` `PHP` `SQL`
+### 🔌 Vending Vitalizer Machine (VVM)
+*Sep 2025 – Mar 2026*
+Designed and implemented the full UI/control system for a vending machine, sending commands to an Arduino board over serial communication. Over 15,000 lines of code, written entirely without Scene Builder, with complete exception handling and connection error management for a stable, crash-free system that stays synced with a remote server.
+🔗 [Download project](https://sadraghofran.ir/VVM.zip)
 
-### [Tamsu](https://tamsu.ir)
-An educational platform for study-time tracking and analytics, file sharing with generated upload/download links, quiz creation (multiple-choice, short-answer, and auto-graded typed tests), and built-in messaging. Actively in development.
-`PHP` `JavaScript` `HTML/CSS` `SQL`
+### 🖥️ Xerox Office Automation
+A desktop system built with Java and JavaFX to streamline customer management for a Xerox service company. Each customer has a dedicated record (identity info, purchase/service history, related documents, invoices, images) with full create, edit, delete, search, and download functionality.
 
-### Xerox Office Automation
-A Java/JavaFX desktop system for a Xerox service company managing customer records, service history, and documents (invoices, contracts, images), with a searchable dashboard and Excel/Word/PDF export, backed by a PHP + SQL server.
-`Java` `JavaFX` `PHP` `SQL`
+### 📚 Tamsu — Educational Platform
+*Dec 2025*
+A professional platform for task organization, smart quiz creation, time management, file sharing, and internal messaging — built to give users an integrated, accessible space for knowledge management and tracking learning progress.
+🔗 [Tamsu.ir](https://tamsu.ir)
 
-### Web Projects
-[menschwoodworks.ir](https://menschwoodworks.ir) — woodcraft portfolio · [sadraghofran.ir](https://sadraghofran.ir) — personal site · [healthdish.ir](https://healthdish.ir)
-`PHP` `WordPress` `HTML/CSS`
+### 🌐 Other Web Projects
+- 🍽️ [Healthdish.ir](https://healthdish.ir)
+- 🪵 [Menschwoodworks.ir](https://menschwoodworks.ir) — woodcraft studio
+- 🎨 [Sadraghofran.ir](https://sadraghofran.ir) — personal portfolio
 
-<br>
+---
 
-## Currently
+## 🎓 Education
+**B.Sc. in Computer Engineering** — University of Tabriz (Sep 2023 – Present)
 
-- Building out new features for Tamsu
-- Writing a paper on CSP-based optimization for document workflow automation
-- Reading up on Worst-Case Execution Time (WCET) analysis in embedded systems
-- Studying German (B1) and English (A2) toward study/work opportunities abroad
+## 🏆 Achievements
+- 🥇 Ranked in ICPC Programming Contest
+- 📜 Collaboration Certificate, DCHPC Conference
 
-<br>
+## 🧩 Internship
+Xerox Printer Service Internship — Xerox Tahmasebi (Sep 2024)
 
-## GitHub Stats
+## 🌍 Languages
+English ★★★☆☆ · German ★★☆☆☆
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=einmensch1847&show_icons=true&hide_border=true&title_color=1A1A2E&icon_color=1A1A2E&text_color=333333&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=1A1A2E&text_color=333333&bg_color=00000000)
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=einmensch1847&show_icons=true&count_private=true&hide_border=true&title_color=1a1a2e&icon_color=1a1a2e&text_color=333&bg_color=ffffff" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=1a1a2e&text_color=333&bg_color=ffffff" alt="Top Languages" width="48%"/>
 </div>
 
-<br>
+---
 
-## Get in Touch
+## 📬 Contact
 
 | | |
 |---|---|
-| **Email** | [SadraGhofran544@gmail.com](mailto:SadraGhofran544@gmail.com) |
-| **Portfolio** | [sadraghofran.ir](https://sadraghofran.ir) |
-| **LinkedIn** | [Sadra Ghofran](https://linkedin.com/in/sadra-ghofran-335b81340) |
-| **Location** | Tabriz, Iran |
+| 📧 Email | [SadraGhofran544@gmail.com](mailto:SadraGhofran544@gmail.com) / [Mail@sadraghofran.ir](mailto:Mail@sadraghofran.ir) |
+| 🌐 Portfolio | [sadraghofran.ir](https://sadraghofran.ir) |
+| 💼 LinkedIn | [sadra-ghofran](https://ir.linkedin.com/in/sadra-ghofran-335b81340) |
+| 🐙 GitHub | [@einmensch1847](https://github.com/einmensch1847) |
+| 📍 Location | Tabriz, Iran |
+
+<div align="center">
+</div>
 
