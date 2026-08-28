@@ -52,14 +52,20 @@ Full-stack learning platform with time analytics, file management, auto-graded t
 Desktop CRM for printing-equipment distributor. Java/JavaFX with PHP/MySQL backend. Customer management, dashboards, Excel/Word/PDF export.
 
 ---
+Technical Skills
+Programming Languages
+�
+￼ 
 
-## Technical Skills
+Web & Application Development
+�
+￼ 
 
-**Languages**  
-Java · JavaFX · PHP · JavaScript · Python · VHDL
+Systems & Tools
+�
+￼ 
 
-**Systems & Tools**  
-MySQL · Arduino · FPGA · Linux · Git · cPanel
+Additional: JavaFX · VHDL · FPGA/CPLD · MySQL · PHP/MySQL APIs · cPanel
 
 ---
 
