@@ -53,19 +53,20 @@ Desktop CRM for printing-equipment distributor. Java/JavaFX with PHP/MySQL backe
 
 ---
 Technical Skills
+
 Programming Languages
-�
-￼ 
 
-Web & Application Development
-�
-￼ 
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,python,php,js" />
+</p>Web & Application Development
 
-Systems & Tools
-�
-￼ 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,php,mysql,wordpress" />
+</p>Systems & Tools
 
-Additional: JavaFX · VHDL · FPGA/CPLD · MySQL · PHP/MySQL APIs · cPanel
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,arduino" />
+</p>Additional: JavaFX · VHDL · FPGA/CPLD · MySQL · PHP/MySQL APIs · cPanel
 
 ---
 
