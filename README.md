@@ -94,12 +94,7 @@ English · A2 (Basic)
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=einmensch1847&show_icons=true&hide_border=true&title_color=1a1a2e&icon_color=1a1a2e&text_color=333&bg_color=ffffff" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=1a1a2e&text_color=333&bg_color=ffffff" width="45%" />
-</div>
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=einmensch1847)](https://github.com/einmensch1847)
 
 ---
 
