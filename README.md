@@ -2,7 +2,7 @@
 
 # Sadra Ghofran
 
-### Computer Engineering Student · AI Researcher · Developer
+### Computer Engineering Student
 
 [Portfolio](https://sadraghofran.ir) • [Email](mailto:SadraGhofran544@gmail.com) • [LinkedIn](https://ir.linkedin.com/in/sadra-ghofran-335b81340) • [GitHub](https://github.com/einmensch1847)
 
