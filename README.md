@@ -12,7 +12,8 @@
 
 ## About
 
-Computer Engineering student at the University of Tabriz (7th semester, GPA 16.20/20) with research experience in CSP-based optimization and applied work across desktop, web, and embedded systems. Currently co-authoring a paper with University of Michigan faculty. Seeking a Master's research position in AI, Optimization, or Embedded Systems.
+Computer Engineering student (7th semester, GPA 16.20/20, University of Tabriz) with applied experience across 
+desktop software (Java/JavaFX), web development (PHP/JavaScript/MySQL), and embedded systems (Arduino).
 
 ---
 
