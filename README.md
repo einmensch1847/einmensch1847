@@ -1,111 +1,106 @@
 <div align="center">
 
-# Hi, I'm Sadra Ghofran 👋
-### Java / JavaFX Developer · Web Developer · Hardware Enthusiast
+# Sadra Ghofran
 
-Computer Engineering student at University of Tabriz
+### Computer Engineering Student · AI Researcher · Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sadraghofran.ir-1a1a2e?style=flat-square)](https://sadraghofran.ir)
-[![Email](https://img.shields.io/badge/Email-SadraGhofran544%40gmail.com-1a1a2e?style=flat-square)](mailto:SadraGhofran544@gmail.com)
-[![Email](https://img.shields.io/badge/Email-mail%40sadraghofran.ir-1a1a2e?style=flat-square)](mailto:mail@sadraghofran.ir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadra--ghofran-1a1a2e?style=flat-square)](https://ir.linkedin.com/in/sadra-ghofran-335b81340)
-[![Location](https://img.shields.io/badge/Location-Tabriz%2C%20Iran-1a1a2e?style=flat-square)](#)
+[Portfolio](https://sadraghofran.ir) • [Email](mailto:SadraGhofran544@gmail.com) • [LinkedIn](https://ir.linkedin.com/in/sadra-ghofran-335b81340) • [GitHub](https://github.com/einmensch1847)
 
 </div>
 
 ---
 
-## 🧭 About Me
+## About
 
-I'm a Computer Engineering student (6th semester) at the University of Tabriz with a GPA above 16/20, passionate about problem solving, algorithm design, and software development.
-
-I have hands-on experience building desktop applications with **Java/JavaFX** and web applications with **PHP/JavaScript**, along with a challenging cross-disciplinary project connecting software and hardware (a vending machine controller).
-
-I also have a background in graphic design and traditional art, which has given me a strong eye for detail, visual structure, and creative problem-solving.
+Computer Engineering student at the University of Tabriz (7th semester, GPA 16.20/20) with research experience in CSP-based optimization and applied work across desktop, web, and embedded systems. Currently co-authoring a paper with University of Michigan faculty. Seeking a Master's research position in AI, Optimization, or Embedded Systems.
 
 ---
 
-## 🛠️ Skills & Tools
+## Research
 
-**Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+**CSP-Based Optimization for Office Automation** · *2025–Present*  
+Undergraduate Researcher, University of Tabriz
 
-**Hardware & Digital Design**
-![VHDL](https://img.shields.io/badge/VHDL-4B0082?style=flat-square)
-![FPGA](https://img.shields.io/badge/FPGA%2FCPLD-555555?style=flat-square)
+- Developing heuristic search and constraint-propagation models to optimize document workflow and signature routing
+- Reducing scheduling conflicts in administrative processes through constraint satisfaction
+- Co-authoring manuscript with University of Michigan collaborators *(in progress)*
 
-**Tools & Databases**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**WCET Analysis** · Academic Presentation  
+- Static analysis, IPET, Scope Tree, Timing Graph, abstract interpretation  
+- Based on the 2003 Uppsala University paper
 
 ---
 
-## 💼 Featured Projects
+## Education
 
-### 🔌 Vending Vitalizer Machine (VVM)
-*Sep 2025 – Mar 2026*
-Designed and implemented the full UI/control system for a vending machine, sending commands to an Arduino board over serial communication. Over 15,000 lines of code, written entirely without Scene Builder, with complete exception handling and connection error management for a stable, crash-free system that stays synced with a remote server.
-🔗 [Download project](https://sadraghofran.ir/VVM.zip)
+**B.Sc. Computer Engineering** · University of Tabriz · 2023–Present  
+GPA 16.20/20 · 7th Semester · Study Exemption (Military Service)
 
-### 🖥️ Xerox Office Automation
-A desktop system built with Java and JavaFX to streamline customer management for a Xerox service company. Each customer has a dedicated record (identity info, purchase/service history, related documents, invoices, images) with full create, edit, delete, search, and download functionality.
-
-### 📚 Tamsu — Educational Platform
-*Dec 2025*
-A professional platform for task organization, smart quiz creation, time management, file sharing, and internal messaging — built to give users an integrated, accessible space for knowledge management and tracking learning progress.
-🔗 [Tamsu.ir](https://tamsu.ir)
-
-### 🌐 Other Web Projects
-- 🍽️ [Healthdish.ir](https://healthdish.ir)
-- 🪵 [Menschwoodworks.ir](https://menschwoodworks.ir) — woodcraft studio
-- 🎨 [Sadraghofran.ir](https://sadraghofran.ir) — personal portfolio
+*Algorithms & Data Structures · Artificial Intelligence · Computer Architecture · Operating Systems · Database Systems · Embedded Systems*
 
 ---
 
-## 🎓 Education
-**B.Sc. in Computer Engineering** — University of Tabriz (Sep 2023 – Present)
+## Projects
 
-## 🏆 Achievements
-- 🥇 Ranked in ICPC Programming Contest
-- 📜 Collaboration Certificate, DCHPC Conference
+**Intelligent Vending Machine (VVM)** · *2025–2026*  
+Biometric-based beverage dispenser with Arduino integration. 15,000+ lines of Java/JavaFX (pure code, no Scene Builder), MySQL/PHP backend, serial communication, full exception handling.
 
-## 🧩 Internship
-Xerox Printer Service Internship — Xerox Tahmasebi (Sep 2024)
+**Tamsu — Educational Platform** · *2025–Present*  
+Full-stack learning platform with time analytics, file management, auto-graded testing, messaging, and admin panel. Built with PHP, JavaScript, MySQL.
 
-## 🌍 Languages
-English ★★★☆☆ · German ★★☆☆☆
+**Xerox CRM** · *2024*  
+Desktop CRM for printing-equipment distributor. Java/JavaFX with PHP/MySQL backend. Customer management, dashboards, Excel/Word/PDF export.
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
+
+**Languages**  
+Java · JavaFX · PHP · JavaScript · Python · VHDL
+
+**Systems & Tools**  
+MySQL · Arduino · FPGA · Linux · Git · cPanel
+
+---
+
+## Experience
+
+**Technical Intern** · Xerox Printing Services (Tahmasbi Xerox) · *Sep 2024*  
+Diagnostics and technical service for digital printing equipment. Documented field cases including IBT belt failure analysis.
+
+---
+
+## Achievements
+
+- ICPC Asia Online · Top Placement · 2025
+- CS50: Introduction to AI with Python · Harvard University · 2026
+- DCHPC Conference · Video & Poster Presentation · 2026
+
+---
+
+## Languages
+
+Azerbaijani · Native  
+Persian · Fluent  
+German · B1 (Intermediate)  
+English · A2 (Basic)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=einmensch1847&show_icons=true&count_private=true&hide_border=true&title_color=1a1a2e&icon_color=1a1a2e&text_color=333&bg_color=ffffff" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=1a1a2e&text_color=333&bg_color=ffffff" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=einmensch1847&show_icons=true&count_private=true&hide_border=true&title_color=1a1a2e&icon_color=1a1a2e&text_color=333&bg_color=ffffff" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=einmensch1847&layout=compact&hide_border=true&title_color=1a1a2e&text_color=333&bg_color=ffffff" width="45%" />
 </div>
 
 ---
 
-## 📬 Contact
-
-| | |
-|---|---|
-| 📧 Email | [SadraGhofran544@gmail.com](mailto:SadraGhofran544@gmail.com) / [Mail@sadraghofran.ir](mailto:Mail@sadraghofran.ir) |
-| 🌐 Portfolio | [sadraghofran.ir](https://sadraghofran.ir) |
-| 💼 LinkedIn | [sadra-ghofran](https://ir.linkedin.com/in/sadra-ghofran-335b81340) |
-| 🐙 GitHub | [@einmensch1847](https://github.com/einmensch1847) |
-| 📍 Location | Tabriz, Iran |
-
 <div align="center">
+  <a href="mailto:SadraGhofran544@gmail.com">Email</a> · 
+  <a href="https://sadraghofran.ir">Portfolio</a> · 
+  <a href="https://ir.linkedin.com/in/sadra-ghofran-335b81340">LinkedIn</a> · 
+  <a href="https://github.com/einmensch1847">GitHub</a>
+  <br><br>
+  <sub>Tabriz, Iran</sub>
 </div>
-
